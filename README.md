@@ -1,6 +1,16 @@
 # SUSPENSE-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] THE NIGHT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:882f6ca7defbeea025390b7b23fc6dd4fd5341fa</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vHoeIopknC6fCUTJfagDGwr6qmf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal iraniano vivendo nos Estados Unidos se encontra preso dentro de um hotel, quando eventos malignos os forçam a enfrentar os segredos que guardam em uma noite que nunca termina.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O PÁLIDO OLHO AZUL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e404810e10bbe9216d63d5c0a0fad7de11c44d2</link>
