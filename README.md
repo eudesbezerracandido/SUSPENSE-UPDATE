@@ -1,7 +1,13 @@
 # SUSPENSE-UPDATE
 
-
-
+<item>
+<title>[COLOR silver][B] ESCONDIDOS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65cd784c0287e38a31739294f65f655c1eb4bbaf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oiNc4aTeaUMVNkxL0UWnezmKJgM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ray, Claire e sua filha de apenas sete anos Zoe são uma família americana comum, exceto pelo fato de estarem Escondidos em um abrigo anti-bomba desde que escaparam de um dia devastador que mudou tudo. Escondidos torrent traz um clima de tensão e suspense.
+Realmente não quero falar muito sobre Escondidos torrent pois acredito que a melhor maneira de desfrutar este filme é ir em saber de quase nada. Isso é o que eu fiz e eu estava completamente entretido até que os créditos rolado. Escondidos é um filme incrível, história agradável, elenco e enredo maravilhosos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] THE NIGHT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
