@@ -1,5 +1,14 @@
 # SUSPENSE-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] CRIME NA RODOVIA PARAISO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa2e2571e51a925cfdfba103bf9f4844b7c8bd98</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dvORIgcnRclbvGQ7jtcyDqPLKju.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma motorista de caminhão foi forçada a contrabandear carga ilícita para salvar seu irmão de uma gangue de prisão mortal. Com agentes do FBI em seu encalço, a consciência de Sally é desafiada quando o pacote final acaba sendo uma adolescente.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ESCONDIDOS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65cd784c0287e38a31739294f65f655c1eb4bbaf</link>
