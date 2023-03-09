@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O MISTÉRIO DE OZARKS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb126e981295359bf0c4c1a052e44ecc57c0ab2a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7lK1qXVg7Gw80aEDyjw4Tx8qPor.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem médico é chamado à uma cidade remota devido a uma presença sobrenatural.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ESCONDIDOS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65cd784c0287e38a31739294f65f655c1eb4bbaf</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oiNc4aTeaUMVNkxL0UWnezmKJgM.jpg</thumbnail>
