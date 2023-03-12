@@ -1,6 +1,16 @@
 # SUSPENSE-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] A MALDIÇÃO DO BONECO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d056c12f686ff28d22acdced8a767059d6dd004</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gvzB7AyfhaGzJ4aRDbEAjf2ZjdN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois que seu marido morre, Sarah e suas filhas Chrissy e Kilee se mudam para uma nova cidade esperando por uma nova vida. Kilee odeia o movimento, sentindo que eles estão fugindo da memória de seu pai. Quando ela é maltratada na escola e está lutando sem parar com sua irmã, parece que o mundo está contra ela, até que ela descobre uma boneca, cheia de alfinetes, em seu quintal. Ela logo passa a acreditar que a boneca possui poderes sobrenaturais, mas quando ela começa a agir por conta própria, Kilee fica preocupada com o que ela poderia ter desencadeado sobre as pessoas em sua vida.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CRIME NA RODOVIA PARAISO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa2e2571e51a925cfdfba103bf9f4844b7c8bd98</link>
