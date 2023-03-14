@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] COLLIDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ab52dc649ecb4f06e59fbe0d42a7f8d02634e7a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xdoOkjtC6BLZGdVBfLCKVXrKOcO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um suspense emocionante narrando três casais ao longo de uma noite fatídica em um restaurante de Los Angeles. Hunter se encontra em um encontro às cegas estranho com a cativante Tamira, enquanto um ajudante de garçom e sua namorada estão escondendo montes de cocaína para ganhar um grande pagamento, e do lado de fora, Peter está sentado em seu carro observando a infidelidade de sua esposa com o gerente do restaurante. Embora sejam todos estranhos, suas histórias são entrelaçadas à medida que se aproximam de um final explosivo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CRIME NA RODOVIA PARAISO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa2e2571e51a925cfdfba103bf9f4844b7c8bd98</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dvORIgcnRclbvGQ7jtcyDqPLKju.jpg</thumbnail>
