@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DEAD FOR DOLLAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d29cd07cd1ad32bb6af842c217a6e3d631e5e7d6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1AnXfjxFqMsQmUPSvt9YxUJhfFw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Chihuahua, Novo México, 1897. Max Borlund, um veterano caçador de recompensas, viaja até as profundezas do México, onde ele encontra o apostador profissional e fora-da-lei Joe Cribbens - um inimigo jurado que Max enviou para a prisão anos antes.Borlund está em uma missão para encontrar e devolver Rachel Kidd, a esposa refém de um rico empresário de Santa Fé. Ao descobrir que a Sra. Kidd realmente fugiu de um casamento abusivo, Max se depara com uma escolha: terminar o trabalho desonesto para o qual foi contratado ou ficar de lado enquanto mercenários foras-da-lei implacáveis e seu rival de longa data se aproximam...Max e seu parceiro Alonzo Poe não têm nada a ganhar se resistirem — nada além de honra.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COLLIDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ab52dc649ecb4f06e59fbe0d42a7f8d02634e7a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xdoOkjtC6BLZGdVBfLCKVXrKOcO.jpg</thumbnail>
