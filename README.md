@@ -1,7 +1,12 @@
 # SUSPENSE-UPDATE
 
-
-
+<item>
+<title>[COLOR silver][B] NIGHBIRD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7652E48CA66E92B6B7E313AEE076A39942196D39</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9lmwwQNNlB56IsTM5jpD4Z8rytO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em uma festa organizada por amigos, Rachel conhece quatro homens. A noite cheia de bebida e drogas se torna caótica quando os homens agridem sexualmente Rachel e suas amigas. Rachel jura buscar vingança, não importa o que aconteça.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A MALDIÇÃO DO BONECO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
