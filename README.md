@@ -1,5 +1,14 @@
 # SUSPENSE-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] CATFISH KILLER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C80C7731F49A0BE948BF54B54440834DE8D41585</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wSXOGXHhMdOPTp0Bm9QfMI6OaKV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Hannah está emocionada com o andamento de seu último ano no ensino médio. Seus melhores amigos sempre ao seu lado, sua mãe é muito solidária e ela acabou de conseguir uma cobiçada bolsa de estudos para a Universidade de Stanford. No entanto, Hannah entra em uma sala de bate-papo on-line onde conhece um cara por quem se apaixona rapidamente, e as coisas rapidamente vão de muito boas a terríveis.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NIGHBIRD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7652E48CA66E92B6B7E313AEE076A39942196D39</link>
