@@ -1,6 +1,15 @@
 # SUSPENSE-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] INTENÇÕES CRUÉIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98c2cbbf5f30ec46f3a1e9c04b0f10a0cef4f258</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jwjMxIXoJ3T90pHDL0P5NsYyuTh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando Olivia é adiada de sua faculdade dos sonhos, ela começa a espiralar e experimenta uma série de ataques de pânico cada vez mais assustadores. Em uma tentativa de recuperar o controle, ela embarca em uma fúria alimentada pelas mídias sociais contra aqueles que estão no caminho de seu sucesso. Mas à medida que as coisas aumentam, ela é forçada a enfrentar seus impulsos mais sombrios para seguir em frente.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CATFISH KILLER (DUBLADO NÃO OFICIAL) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C80C7731F49A0BE948BF54B54440834DE8D41585</link>
