@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] A COMISSÁRIA DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0239864693b5b4b68acee2f1c5a55cecbe631e9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/buzli3fkGETLPBwQcHO4FZKlkFz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de um cansativo voo, a comissária de bordo Anna resolve passar a noite com um homem que acabou de conhecer, mas ao acordar na manhã seguinte ela descobre que o homem foi brutalmente assassinado. Anna agora corre contra o tempo para reunir todas as pistas e desvendar o que aconteceu na noite anterior.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] INTENÇÕES CRUÉIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98c2cbbf5f30ec46f3a1e9c04b0f10a0cef4f258</link>
