@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CASO PERIGOSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a38a067c1d5a74c4f6c8ad86aaaa2daf91069b78</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/h9FbCfpc4GXHkbd5zljPZNMXjsS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de um divórcio recente, o jovem pai Chris (Cameron Monaghan) acaba se apaixonando pela misteriosa Sky (Lilly Krug).No entanto, na manhã seguinte de um encontro intenso, ele descobrirá que ela é uma completa psicopata. Agora Chris sofrerá inúmeras torturas na mão de Sky, que é desiquilibrada e cruel. Tudo que ele deseja é sobreviver para rever seu filho em segurança.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] INTENÇÕES CRUÉIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98c2cbbf5f30ec46f3a1e9c04b0f10a0cef4f258</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jwjMxIXoJ3T90pHDL0P5NsYyuTh.jpg</thumbnail>
