@@ -1,6 +1,15 @@
 # SUSPENSE-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] SONS OF PREACHER  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03FE80A230C2EA77AB2E830B5AFF7283F34D5CBA</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzA1ZjBlOGYtMDNhOC00MDFlLWE5ZGEtNTU5NThlOGVjNTUxXkEyXkFqcGdeQXVyNTIyNDYxNg@@._V1_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O vínculo dos irmãos David e Elijah é testado quando seus caminhos individuais os afastam um do outro. Um responde ao chamado das ruas e o outro ao chamado de Deus. Quando circunstâncias além de seu controle infringem suas vidas, ambos são forçados a perceber que, seja bom ou ruim, você colhe o que planta.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] THA KHIN GYI HNINT NPAPI TOH SAYAR( LEGENDA FIXA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9CF71DCE60F955B7175EB676382C8173EF40D822</link>
