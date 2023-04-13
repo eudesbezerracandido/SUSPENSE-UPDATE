@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CRIME PERFEITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec557494b49cf854e0c4c0153fcffb99d3106dd9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fdaGFN94V9VSfmP0AzFcRN1Sqly.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Baseado em um crime real. Um simples roubo se torna um assassinato quando um casal de usuários de drogas em busca de uma nova vida decide roubar uma mansão. Tudo sai do controle quando descobrem que a casa não está vazia como imaginavam.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THA KHIN GYI HNINT NPAPI TOH SAYAR( LEGENDA FIXA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9CF71DCE60F955B7175EB676382C8173EF40D822</link>
 <thumbnail>https://wpengine-myanmore.s3.amazonaws.com/uploads/2019/10/thakhin.jpg</thumbnail>
