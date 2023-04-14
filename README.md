@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] ASSOMBROSAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd450e3f8e0be28cb34a619339834bc02db80a97</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kwdK2tzASFRaL2lFPU6Pd4Nqno4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma equipe de investigação especializada em fenômenos paranormais é formada no final da década de 1990. Os membros do grupo, Sagrario (Belén Rueda), Paz (Gracia Olayo), Gloria (Toni Acosta) e o Padre Girón (Emilio Gutiérrez Cava) concordam em investigar uma loja de antiguidades onde coisas muito estranhas acontecem. Mas o que parecia ser um caso simples, acaba se tornando o mais desafiador de suas vidas.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CORROSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
