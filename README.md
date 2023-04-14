@@ -1,6 +1,13 @@
 # SUSPENSE-UPDATE
 
 
+<item>
+<title>[COLOR silver][B]  CEIA MACABRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7f3fe8f3d15cbd77a435e59a8757633fa066031</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/irQGfw7AD3j9EuFUrsRbmpJnQLT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal vai a um jantar frequentado por membros da alta sociedade com costumes bastante exóticos. Com o passar da noite, segredos horripilantes são desvendados e um banho de sangue começa.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ASSOMBROSAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
