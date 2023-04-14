@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] CORROSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e6ec17c3f7670822408b2dc1c9697cee9f63831</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9WIHpY4qVYVYyRq220K4LVQwpjt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma jornalista acaba de sofrer uma perda muito dolorosa: seu bebê morre no parto. E além de viver o luto de um fato tão trágico, e recuperar sua própria saúde, ela ainda precisará administrar outras ameaças. A mulher começa a ter visões assustadoras e se sentir sob ataque.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SONS OF PREACHER  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03FE80A230C2EA77AB2E830B5AFF7283F34D5CBA</link>
