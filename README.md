@@ -1,6 +1,16 @@
 # SUSPENSE-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] EU SOU O BISPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1e4370a4a7b036958cd3eb8f7729a473920065f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/grarRx57AFkQGuyY856Ex8RMkQp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O homem que limpa sabe que você pode encontrar muitos segredos no lixo. As pessoas tendem a mentir, mas seu lixo nunca o faz. O Homem que Limpa pensava que era invisível, até que conheceu a Garota com a Mecha de Cabelo Roxo. A garota com a mecha de cabelo roxa invade sua vida organizada porque apenas um anjo do mal pode salvá-la agora. Enquanto isso, a Caçadora sabe que alguém está matando loiros por aí. Ninguém acredita nela, mas ela sabe. O que ela não sabe, porém, é que o mal está escondido atrás da porta verde. A verdade está no fundo de um abismo escuro e profundo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B]  CEIA MACABRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7f3fe8f3d15cbd77a435e59a8757633fa066031</link>
