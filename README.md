@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] PSICOSES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e2d329593ca1535c6e918d11451a12ee4604b67</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kzGz99bgU9UZwudUvL0aPXVL4i4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma psiquiatra forense fica sob pressão enquanto avalia um suposto assassino. Ao perceber que ele pode ser um assassino em série e que uma de suas vítimas ainda pode estar viva, ela decide dar um passo à frente, pondo em risco sua própria sanidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SEM RASTRO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7ec1671fd69e4a2f04a52db441fd895168e01f6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/m3ZNSvplELOkVZKPXElMwdapIr4.jpg</thumbnail>
