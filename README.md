@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] CAPÍTULOS MORTAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b333b8d13e15a254e041cfad3f28c4ec407f1d45</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nusITuDvgLGonw13DK6p8OHUK2T.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando vários assassinatos são inspirados em seus livros de mistério, a escritora de sucesso se junta à investigação. Logo ela descobre que sua conexão com o assassino em série vai mais além de seus livros.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TIC-TAC: A MATÉRNIDADE DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:749bf8b319f070da9c771d9d2b13cf2ffc113241</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dpKHaXmAeiVaV1FQVIWStyg0Cws.jpg</thumbnail>
