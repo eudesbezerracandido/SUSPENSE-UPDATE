@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] TIC-TAC: A MATÉRNIDADE DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:749bf8b319f070da9c771d9d2b13cf2ffc113241</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dpKHaXmAeiVaV1FQVIWStyg0Cws.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ella tem tudo. Ela é uma estrela em ascensão no Design de Interiores, mora em uma casa digna de revista e é casada com um marido amoroso. Mas Ella se sente excluída porque… Ella não quer filhos. E ninguém – nem sua família, amigos ou a sociedade – tolera isso, apesar de ela insistir que é feliz assim. À medida que a pressão aumenta, Ella fica sabendo de um ensaio clínico em que seu problema está sendo considerado uma questão de fertilidade – um desequilíbrio químico que pode ser tratado com hormônios sintéticos recém-projetados e terapia cognitivo-comportamental. Ela decide se inscrever. Para sua surpresa, o tratamento começa a funcionar. Mas os efeitos colaterais da medicação a estão deixando cada vez mais paranoica e violenta. Ella finalmente quer filhos… mas a que custo?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PSICOSES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e2d329593ca1535c6e918d11451a12ee4604b67</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kzGz99bgU9UZwudUvL0aPXVL4i4.jpg</thumbnail>
