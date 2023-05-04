@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] VOO MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68b4f68c600f235c0764837270d0a893aa6948d8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zY45JCOILgvz65rNeWainQTsDQx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma instrutora de voo enlouquecida fica obcecada por seu belo aluno, usando suas habilidades de pilotagem para destruir as pessoas em sua vida e seduzi-lo a amá-la.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CAPÍTULOS MORTAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b333b8d13e15a254e041cfad3f28c4ec407f1d45</link>
