@@ -1,7 +1,13 @@
 # SUSPENSE-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] O CULPADO ENTRE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d627d6a5ee6be44a81177c78b538e132b9f0421c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/elYExs0E8OUyUwl1HiMixFm65Ju.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Durante uma viagem, quatro amigos acabam isolados em uma cabana na montanha, presos por uma forte nevasca. Agora, eles têm apenas uma chance para se salvar: descobrir qual deles foi o culpado por cometer um terrível crime em seu passado.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] VOO MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
