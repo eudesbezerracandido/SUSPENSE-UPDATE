@@ -1,6 +1,15 @@
 # SUSPENSE-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] PREMONIÇÕES EM WOODLAND [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d8c8a40ed13d538900eb1a9d585f9b12daa02f1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/34ARgzzqhjFcVXMMExqxnrkFJEe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em uma ilha no noroeste do Pacífico, o futuro perturbador de um fotojornalista é revelado a ele através das imagens que ele fotografa.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O CULPADO ENTRE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d627d6a5ee6be44a81177c78b538e132b9f0421c</link>
