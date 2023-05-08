@@ -1,6 +1,13 @@
 # SUSPENSE-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] APÓS A MORTE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6042bbd66952d26da75ba3c513f46620ad35aa9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/43UlJLzzWu53UX4syIftJ18ye9K.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de passarem por uma festa estranha e psicodélica, cinco jovens acordam em uma misteriosa praia distante e percebem que na verdade estão mortos. Enquanto tentam descobrir o que os levou até ali, eles precisam lutar para fugir dos sobrenaturais perigos que habitam o local. Ao passarem por dores insuportáveis e criaturas mistícias que os perseguem, eles rapidamente começam a acreditar que forma para algum tipo de purgatório.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PREMONIÇÕES EM WOODLAND [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
