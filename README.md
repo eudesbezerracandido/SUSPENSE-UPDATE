@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FIÉS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f79acd2b6ac988be7841dac024ef0c64e958f347</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tRIiyvty7h6d9F5Al2nxcxwI09f.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Duas amigas criam uma complicada rede de mentiras, mas tudo vem à tona depois que uma delas desaparece.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PREMONIÇÕES EM WOODLAND [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d8c8a40ed13d538900eb1a9d585f9b12daa02f1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/34ARgzzqhjFcVXMMExqxnrkFJEe.jpg</thumbnail>
