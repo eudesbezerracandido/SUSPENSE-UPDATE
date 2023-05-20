@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PLAY DEAD: NÓS BASTIDORES DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3754e2c15ca7e21085e5faf7783e9e893544226</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/h5bwT8fuE6VIaOslRezwDiL2DxK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Chloe, uma estudante de criminologia, finge sua própria morte para invadir um necrotério e roubar evidências que ligam seu irmão a um crime. Lá, ela descobre que o legista está usando o necrotério como fachada para o tráfico de órgãos. Ao descobrir que Chloe não está morta, ele inicia uma perseguição aterradora, provando que os mais aterradores não são os mortos, mas sim os vivos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FIÉS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f79acd2b6ac988be7841dac024ef0c64e958f347</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tRIiyvty7h6d9F5Al2nxcxwI09f.jpg</thumbnail>
