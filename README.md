@@ -1,6 +1,16 @@
 # SUSPENSE-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] DAMA DE CINZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4be8a00130949d0baa99418fcc1d8a9dcb554cd6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1FD0hthEjobZL6f59CFH7rFX3ut.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A parceira do detetive de homicídios James Doyle de Boston, é assassinada em uma emboscada. Sua busca por justiça o leva para a remota ilha de Nantucket.</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] APÓS A MORTE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6042bbd66952d26da75ba3c513f46620ad35aa9</link>
