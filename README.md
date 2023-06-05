@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] DE DESEJO A PESADELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64290a8b969ddf3b886f50fc2ccb82ab39ea1e91</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4Ds33H0HREwiAj0BToq7gNZs93l.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Carrie e Justin Palmer são o casal perfeito para todos ao seu redor. Ou assim parece. Eles comemoraram recentemente dez anos de casamento e estão conversando sobre começar uma família. Depois de uma noite cheia de vinho, as amigas de Carrie a pressionam para compartilhar quem seria seu “passe de corredor”. Carrie admite que ela tem uma queda pelo famoso roqueiro Dante Jones, desde que ela estava na faculdade, mas nunca trairia Justin se tivesse a oportunidade. Depois de uma viagem de negócios a Las Vegas e um encontro casual com o próprio Dante após seu show, sua obsessão de repente se torna dele. Carrie faz tudo o que está ao seu alcance para manter seu segredo longe de seus amigos e, mais importante, Justin, mas a perseguição e paixão implacável de Dante se torna tudo consumidor e perigoso demais para esconder.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DAMA DE CINZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
