@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] O HOMEM DA CABANA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d86564fd8eeb83770737a21f853892ba9efaf16</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/njTeSfX4j6ahuijngzq9PnrC5UQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Nas profundezas da floresta, um caminhante perdido tropeça na cabana de um velho errático e recluso. O que começa como uma conversa cordial logo se torna perigoso quando fica claro que um ou ambos podem estar escondendo um segredo aterrorizante.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DE DESEJO A PESADELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64290a8b969ddf3b886f50fc2ccb82ab39ea1e91</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4Ds33H0HREwiAj0BToq7gNZs93l.jpg</thumbnail>
