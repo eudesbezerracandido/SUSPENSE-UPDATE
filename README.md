@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] CARRASCO AMERICANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccc669b61abceda4008d106a55cd0932276041ba</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eXIjZsK60w71qMk6xG6t7TQnPFs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um homem não identificado posta um feed ao vivo na mídia social mostrando que ele sequestrou dois estranhos e pretende matar um antes que o dia acabe. Sua intenção é realizar um ‘julgamento’ de capital online. À medida que as autoridades reconhecem o que está acontecendo, fica claro que o público online atuará como juiz e júri.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O HOMEM DA CABANA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d86564fd8eeb83770737a21f853892ba9efaf16</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/njTeSfX4j6ahuijngzq9PnrC5UQ.jpg</thumbnail>
