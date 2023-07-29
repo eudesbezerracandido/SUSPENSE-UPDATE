@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] SERVOS DA GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3a22bbd729ab80de6c4ec47c3af655ae325f3c4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aANY8gVcaKJBPX4haM01Fkjy0ED.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dois policiais investigam o assassinato de um respeitado médico, especialista em transplante de medula óssea. Sem querer, eles desvendam um emaranhado caso de corrupção, comércio de órgãos humanos e vendas informações de DNA.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CARRASCO AMERICANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccc669b61abceda4008d106a55cd0932276041ba</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eXIjZsK60w71qMk6xG6t7TQnPFs.jpg</thumbnail>
