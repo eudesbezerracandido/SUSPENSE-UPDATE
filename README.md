@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] ANTES DA TEMPESTADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc70ce674a0261dfa2e1d45318ba356b01f22155</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jlv2NocfTnL9w37Ej2mgrUCyKxk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>À beira do divórcio, Gia e Shane fazem uma última tentativa de salvar a relação e viajam para comemorar o aniversário de casamento em uma casa no lago. Mas, quando eles ficam presos na casa por algum motivo misterioso, os dois são forçados a enfrentar seus demônios, tanto reais quanto imaginários.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SERVOS DA GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3a22bbd729ab80de6c4ec47c3af655ae325f3c4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aANY8gVcaKJBPX4haM01Fkjy0ED.jpg</thumbnail>
