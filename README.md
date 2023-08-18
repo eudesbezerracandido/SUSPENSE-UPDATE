@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] UMA JORNADA ENTRE IRMÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23fbbca2d609e8c7de48e7ff1177511a50bc98e0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/d9nK2TYbBNXvoBLc2gvzvw3x9Pw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No final da década de 80, um psiquiatra leva o seu irmão viciado em drogas até a fronteira canadense para escapar de uma acusação de assassinato. Sem drogas, armas ou comida, os irmãos embarcarão em uma jornada que colocará à prova o verdadeiro significado de amor, família e perdão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ANTES DA TEMPESTADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc70ce674a0261dfa2e1d45318ba356b01f22155</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jlv2NocfTnL9w37Ej2mgrUCyKxk.jpg</thumbnail>
