@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] CONEXÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afb69fd0ad43dd5c2100ca3f03f4af0eb7e2929d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3kY3rX2qAlZDTpgFnrjmD1XHild.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ana e Tom são um jovem casal norte-americano viajando pela França. Sem muito dinheiro, eles aceitam o convite para trabalhar na mansão de Richard. Mas quando os segredos obscuros da propriedade e de seu dono começam a vir à tona, Tom faz uma perigosa descoberta que mudará a vida deles para sempre.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UMA JORNADA ENTRE IRMÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23fbbca2d609e8c7de48e7ff1177511a50bc98e0</link>
