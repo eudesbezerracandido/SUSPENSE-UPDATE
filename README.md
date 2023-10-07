@@ -1,7 +1,13 @@
 # SUSPENSE-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] NOITES BRUTAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dda0ac8a3d3f61e4b5d937d6c0eec0fa543e025e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tA5OE1P8GAEuASNtus5zhJrooI4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Chegando a Detroit para uma entrevista de emprego, uma jovem aluga uma casa. Mas quando chega tarde da noite, ela descobre que a casa já havia sido alugada e ocupada por um homem estranho. Contrariando seu bom senso, ela decide passar a noite, mas logo descobre que há muito mais a temer do que um simples inquilino inesperado.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CONEXÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
