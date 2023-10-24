@@ -1,6 +1,17 @@
 # SUSPENSE-UPDATE
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] ESPERANDO POR VOCÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:577f76f1588b3f8f1adccc5d26a1b8cbf1b38094</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7EjdSaUsk1TV29KxBPYOxqh4cRi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Paul investiga o passado cada vez mais perturbador de seu falecido pai e começa a suspeitar da misteriosa, melancólica e possivelmente perigosa Madeleine.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NOITES BRUTAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dda0ac8a3d3f61e4b5d937d6c0eec0fa543e025e</link>
