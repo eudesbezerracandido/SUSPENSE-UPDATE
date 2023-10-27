@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] ELE VEM Á NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8ba4d2024918dd1804cb3971f02bf7c7c3debb5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/t1yYdCb0kx1EyTkT1GPdMJYDK9F.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um carpinteiro problemático aceita um trabalho para restaurar um antigo moinho de água na floresta, mas ele esconde segredos que ressoarão com seu misterioso passado.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ESPERANDO POR VOCÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:577f76f1588b3f8f1adccc5d26a1b8cbf1b38094</link>
