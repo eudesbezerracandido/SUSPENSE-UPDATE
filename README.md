@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] LORE-A MALDIÇÃO DA FLORESTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17733016af6e59a7441b5c2401f76198446dc95f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2ui3kTAiDznWR040qepibw8IWRt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Filme A Maldição da Floresta Dublado – Legendado – Uma mulher procura pelo filho. O garoto desapareceu em uma floresta isolada. Ela tem ao seu lado a ajuda do ex-marido e de um indígena nativo norte-americano. Quando uma misteriosa criatura maligna começa a caçá-los, essa jornada se torna uma luta pela sobrevivência.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ELE VEM Á NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
