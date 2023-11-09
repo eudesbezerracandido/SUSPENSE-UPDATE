@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] PÂNICO A BORDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81365be0a2f2d8b16c393e78fcf7d8c684ba22b1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tyAVkcQlUtWgmXuGvnIXvR466H0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Pânico a Bordo Torrent – Quando uma aluna excessivamente ambiciosa é convidada para uma jornada submarina por um empresário excêntrico, ela percebe que, no fundo, as pessoas não são quem fingem ser.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] LORE-A MALDIÇÃO DA FLORESTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17733016af6e59a7441b5c2401f76198446dc95f</link>
