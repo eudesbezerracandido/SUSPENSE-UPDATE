@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A FUGA DE ALICE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49075e1bdeb41422fcd412a8659b75f7a94889fc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5LM3AZZAVSVVu3Nea0y3AP0oXte.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Anos 50. Uma mulher problemática encontra refúgio em uma fazenda isolada, com a ajuda de seus donos idealísticos - até que uma figura violenta de seu passado a alcança.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PÂNICO A BORDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
