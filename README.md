@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] NA MIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb942dd150aff93a5158cccb61ccad1043370b5d</link>
+<thumbnail>magnet:?xt=urn:btih:fb942dd150aff93a5158cccb61ccad1043370b5d</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Axel (Nicolás Francella), um simpático operador de call center, corre risco de vida ao receber uma ligação mortal de um cliente revoltado que está disposto a tomar medidas drásticas para cancelar o serviço prestado pela empresa.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A FUGA DE ALICE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49075e1bdeb41422fcd412a8659b75f7a94889fc</link>
