@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] A MALDIÇÃO DE  RAVENS HALLOW [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:519b5a0da333776e48d7186839c5a57446893c6f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8N9qjYLujTFwawY95mHxQUPO1sj.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Edgar Allan Poe e outros quatro cadetes de West Point após um exercício de treinamento no interior do estado de Nova York são atraídos por uma descoberta horrível em direção a uma aldeia esquecida, onde encontram um povoado que guarda um segredo assustador que ameaça destruí-los.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NA MIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb942dd150aff93a5158cccb61ccad1043370b5d</link>
