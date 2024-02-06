@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] STALKER-PERSEGUIÇÃO FATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18c0aec18ef007b6d70c4ee4722269b9ebd18168</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/2rtyrFg0RHz5fBYowZNRfdHqSwg.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma jovem atriz se encontra presa com um estranho no décimo segundo andar de um velho elevador de carga. Sem sinal telefônico e com a aproximação de uma tempestade, as tensões aumentam e as suspeitas crescem quando ela descobre a identidade do homem misterioso.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A MALDIÇÃO DE  RAVENS HALLOW [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
