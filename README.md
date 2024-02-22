@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] ATRAIDOS PELO DESEJO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9899c5f39849381955a44076d125c399c1b4734b</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/AtstPcuyLGP7N3ojEDUS1hNWiwk.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>: Lisa é uma cientista forense obcecada pela beleza do corpo humano e que gosta de se relacionar com diferentes pessoas. Mas em uma noite de trabalho, ela se depara com o cadáver da garota com quem saiu na noite anterior.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] STALKER-PERSEGUIÇÃO FATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18c0aec18ef007b6d70c4ee4722269b9ebd18168</link>
