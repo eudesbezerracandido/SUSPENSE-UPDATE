@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] O MISTÉRIO DA CASA DO LAGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:924f550a576da3e846d4b151ba55d95b8364585a</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/pvljuudKCx99ILd4fFAgU5tXv8U.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um casal aluga uma casa no aniversário da morte de sua filha. Mas logo descobrem que o local não é tão tranquilo assim, e se envolvem em um caso aterrorizante quando uma mulher estranha e um misterioso xerife local aparecem na propriedade.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ATRAIDOS PELO DESEJO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9899c5f39849381955a44076d125c399c1b4734b</link>
