@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] TED BUNDY - MENTE ASSASSINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9803a0d52688156734fcb57493ee5cc30fd41b5c</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/oyfiB4AIQVOKSv2IJcvsNF5wrV.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Nos anos 70, dois obstinados agentes do FBI lideram uma das maiores caçadas da história para prender Ted Bundy, o mais célebre assassino em série dos Estados Unidos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O MISTÉRIO DA CASA DO LAGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
