@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] MEDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:efc016ece2e8160b15e688d83ce1786c1bbeccaa</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/pCDb2U7nlTHjFUoHcejyYCB0WHB.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> As férias de um grupo de amigos se tornam sinistras quando uma ameaça que se espalha pelo ar os força a confrontar seus medos mais profundos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TED BUNDY - MENTE ASSASSINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9803a0d52688156734fcb57493ee5cc30fd41b5c</link>
