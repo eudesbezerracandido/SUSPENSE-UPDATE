@@ -7,6 +7,14 @@
 
 
 <item>
+<title>[COLOR silver][B] MÃE EM FÚRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49737331531d80e11acf6c9ff6ba189a3520f501</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/6ejm4Sx3rp44awUE0qyG1APBvpI.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Barbara O’Brien, uma mãe católica irlandesa, tem sua vida de cabeça para baixo quando seu filho, um calouro na faculdade, se envolve em um trágico incidente de trote. Fazendo justiça com as próprias mãos, ela viaja pelo país registrando mães que perderam filhos devido a trotes em um esforço para provar a responsabilidade da universidade. Quando ela é confrontada pela corrupção e acobertamentos, ela busca vingança contra a única pessoa que considera verdadeiramente responsável, provando que o inferno não tem fúria como uma mãe desprezada.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MEDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:efc016ece2e8160b15e688d83ce1786c1bbeccaa</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/pCDb2U7nlTHjFUoHcejyYCB0WHB.jpg</thumbnail>
