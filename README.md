@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] SEGREDOS NÃO PODEM SER ENTERRADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b7be6713ddd74bce2faa3bab9111b9854c6ca9c</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/k5IpWbxBv6sSEGC4FLfA93aZcsA.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> David Van Owen se muda para uma casa misteriosa e descobre uma caixa enterrada em seu quintal, cheia de 3 milhões de dólares e um cadáver fresco.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MÃE EM FÚRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
