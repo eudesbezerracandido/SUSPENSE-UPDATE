@@ -4,6 +4,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] ENCONTRO ARRISCADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9921917f1d5311aa25151f1cb6e651a93d66402</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/QBln6hXjtvNdNr1wrN1QHouL7N.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Jen é uma mulher solteira procurando por um novo amor na internet. Ela se sente atraída por Mike, um homem charmoso e bonito, mas que se mostra agressivo com o passar do tempo. Jen decide se afastar, mas ele não parece disposto a desistir tão fácil.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SEGREDOS NÃO PODEM SER ENTERRADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b7be6713ddd74bce2faa3bab9111b9854c6ca9c</link>
